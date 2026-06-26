@@ -1,18 +1,73 @@
+yush-jadaun/README.md
+Ayush Jadaun
+Co-Founder & CTO @ Dreamvator · Building distributed systems, AI infrastructure, and developer tools
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_al_not_ok) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aalok-singh-4399bb321) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29054204) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alok123reena@gmail.com) 
+Portfolio LinkedIn Email npm
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aalok-singh05&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aalok-singh05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aalok-singh05&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+About
+I'm a 2nd-year ECE student at MNNIT Allahabad, currently building Dreamvator — aviation stealth startup. I architect and ship full production systems: from distributed job queues and multi-agent orchestration to mobile apps, payment infrastructure, and cloud deployments.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+My work sits at the intersection of distributed systems, AI/ML, and systems engineering. I care about building things that are technically rigorous and solve real problems.
 
----
-[![](https://visitcount.itsvg.in/api?id=Aalok-singh05&icon=0&color=0)](https://visitcount.itsvg.in)
+Currently: CTO & Co-Founder at Dreamvator (React Native · Node.js · AWS ECS Fargate)
+Published: @psyqueue/core on npm and marlos on PyPI
+Executive at Computer Coding Club, MNNIT Allahabad
+Open to collaboration opportunities in distributed systems, AI infrastructure, and full-stack engineering
+Projects
+PsyQueue — Micro-Kernel Distributed Job Queue
+npm version License: MIT
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Plugin-architecture job queue in TypeScript. ~500-line kernel with 20+ plugins covering DAG workflows, Saga compensation, multi-tenancy, circuit breakers, and exactly-once delivery. Outperforms BullMQ via fused ackAndFetch (2 Redis round-trips vs 3), hybrid list + sorted-set dequeue, and hash field packing (13 vs 30 fields per HGETALL). Ships SQLite/Redis/Postgres backends — zero infra to start.
+
+TypeScript Redis PostgreSQL SQLite Node.js
+
+DAIOS — Distributed Autonomous Intelligent Orchestration System
+Demo
+
+Multi-agent orchestration system where an Orchestra Agent decomposes tasks and assigns them to specialized Dev, Debug, and Ops agents via a Redis pub/sub message bus. Each agent runs a ReAct loop backed by Gemini 2.0 Flash with vector + session memory. Supports sequential and parallel execution with retry logic and fault-tolerant timeout budgets.
+
+Python Node.js Redis FastAPI Docker Gemini
+
+MarlOS — Multi-Agent Reinforcement Learning Operating System
+PyPI Demo
+
+Fully decentralized P2P distributed OS — no central orchestrator. Nodes communicate via ZeroMQ gossip, authenticate with Ed25519 signatures, and self-heal by migrating jobs on failure. Each node runs a PPO agent (25-dim state vector) for cooperative bid/forward/defer decisions. Includes a fairness-aware economic layer (MarlCredits) with progressive taxation and starvation prevention. Built at Hack36 9.0.
+
+Python PyTorch Stable Baselines3 ZeroMQ Docker
+
+TBuddy — Multi-Agent Travel Planning System
+PyPI
+
+5 specialized agents (Weather, Events, Maps, Budget, Itinerary) orchestrated via Redis pub/sub with real-time SSE streaming. LangGraph-based stateful planning with MCP architecture. Each agent runs in an isolated Docker container with configurable replicas.
+
+Python FastAPI Redis LangGraph Docker Gemini
+
+Dreamvator — Structured Pilot Training Platform
+Website STEALTH AVIATION STARTUP
+
+AllProfanity — Multi-Language Profanity Filter
+npm version npm downloads
+
+Zero-dependency profanity filter supporting 9 languages (English, Hindi, Hinglish, Bengali, Tamil, Telugu, French, German, Spanish) including native scripts (Devanagari, Bengali, Tamil, Telugu). 160+ weekly downloads. Customizable word lists, character-level and word-level replacement, built entirely in TypeScript.
+
+TypeScript Node.js npm
+
+Achievements
+Competition	Year
+🥇	Winner — Hactivate, Botrush 3.0 (Robotics Club, MNNIT)	2025
+🥇	Winner — Galactic Heist, Botrush 3.0 (Astronomy Club, MNNIT)	2025
+🥇	Winner — Robowars, Botrush 3.0 (Robotics Club, MNNIT)	2025
+🥇	Triple Winner — CodeSangam 2025 (DroidRush, Logical Rhythm, ContriHub)	2025
+🥇	Winner — AIML Hackathon, Culrav/Avishkar (MNNIT)	2024
+🥈	Runner-up — Quinthalon Mock Interview, ES Society (MNNIT)	2024
+🏆	2nd Runner-up — DevJam, Weekend of Code (MNNIT)	2025
+🏆	10th Place — Hack36 9.0	2025
+Stack
+Languages     C++  Python  TypeScript  JavaScript  Rust
+Frontend      React  React Native  Next.js  Tailwind CSS
+Backend       Node.js  Express  FastAPI  PostgreSQL  MongoDB  Redis  Supabase
+AI / ML       PyTorch  TensorFlow  LangGraph  Stable Baselines3  Gemini
+DevOps        AWS (ECS · RDS · CloudFront)  Terraform  Docker  Nginx
+Stats
+ 
+📫 ayushjadaun6@gmail.com · linkedin.com/in/ayush-jadaun-677199311 · ayushjadaun.vercel.app
