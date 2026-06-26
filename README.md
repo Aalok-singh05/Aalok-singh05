@@ -83,8 +83,16 @@ APIs         Google Calendar · WhatsApp · Cloudinary · JWT
 
 ## GitHub Stats
 
-<p align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Aalok-singh05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img width="32%" src="https://nirzak-streak-stats.vercel.app/?user=Aalok-singh05&theme=tokyonight&hide_border=true" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalok-singh05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aalok-singh05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="100%" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Aalok-singh05&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalok-singh05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+    </td>
+  </tr>
+</table>
