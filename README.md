@@ -40,8 +40,8 @@ RESTful API-driven MVC application for property listing and booking. Features ge
 | | |
 |---|---|
 | 🥇 1st Place | Neurathon — Flagship Hackathon, NIT Silchar (national-level) |
-| 🏆 2050+ | LeetCode Rating |
-| 💯 1050+ | DSA problems solved across LeetCode & GeeksforGeeks |
+| 🏆 [2050+](https://leetcode.com/u/alok_secondary/) | LeetCode Rating |
+| 💯 [1050+](https://leetcode.com/u/AalokDivineChildSingh/) | DSA problems solved across LeetCode & GeeksforGeeks |
 
 ---
 
