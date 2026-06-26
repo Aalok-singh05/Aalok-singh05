@@ -70,11 +70,11 @@ APIs         Google Calendar · WhatsApp · Cloudinary · JWT
     <img src="https://img.shields.io/badge/LeetCode-1050%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/aalok_singh/">
+  <a href="https://www.geeksforgeeks.org/profile/alok123ib8k?tab=activity">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://codeforces.com/profile/aalok_singh">
+  <a href="https://codeforces.com/profile/alok2005">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
