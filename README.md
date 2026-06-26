@@ -5,7 +5,7 @@
 Building intelligent systems at the intersection of AI, backend engineering, and automation.
 Currently focused on multi-agent orchestration, scalable APIs, and real-world problem solving.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aalok--singh-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/aalok-singh-4399bb321) [![Email](https://img.shields.io/badge/Email-aalok.singh.official%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aalok.singh.official@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-2050%2B_Rating-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/alok_secondary) [![GitHub](https://img.shields.io/badge/GitHub-Aalok--singh05-181717?logo=github&logoColor=white)](https://github.com/Aalok-singh05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aalok--singh-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/aalok-singh-4399bb321) [![Email](https://img.shields.io/badge/Email-aalok.singh.official%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aalok.singh.official@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-2050%2B_Rating-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Aalok_singh05/) [![GitHub](https://img.shields.io/badge/GitHub-Aalok--singh05-181717?logo=github&logoColor=white)](https://github.com/Aalok-singh05)
 
 ---
 
@@ -41,7 +41,7 @@ RESTful API-driven MVC application for property listing and booking. Features ge
 |---|---|
 | 🥇 1st Place | Neurathon — Flagship Hackathon, NIT Silchar (national-level) |
 | 🏆 [2050+](https://leetcode.com/u/alok_secondary/) | LeetCode Rating |
-| 💯 [1350+](https://leetcode.com/u/AalokDivineChildSingh/) | DSA problems solved across LeetCode & GeeksforGeeks |
+| 💯 [1050+](https://leetcode.com/u/AalokDivineChildSingh/) | DSA problems solved across LeetCode & GeeksforGeeks |
 
 ---
 
@@ -59,14 +59,39 @@ APIs         Google Calendar · WhatsApp · Cloudinary · JWT
 
 ---
 
-## Coding Profiles
+## Competitive Programming
 
-[LeetCode](https://leetcode.com) · [GeeksforGeeks](https://geeksforgeeks.org) · [Codeforces](https://codeforces.com)
+<p align="center">
+  <a href="https://leetcode.com/u/alok_secondary/">
+    <img src="https://img.shields.io/badge/LeetCode-2050%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/AalokDivineChildSingh/">
+    <img src="https://img.shields.io/badge/LeetCode-1050%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/aalok_singh/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/aalok_singh">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aalok-singh05&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aalok-singh05&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aalok-singh05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Aalok-singh05&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalok-singh05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aalok-singh05&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
