@@ -41,7 +41,7 @@ RESTful API-driven MVC application for property listing and booking. Features ge
 |---|---|
 | 🥇 1st Place | Neurathon — Flagship Hackathon, NIT Silchar (national-level) |
 | 🏆 [2050+](https://leetcode.com/u/alok_secondary/) | LeetCode Rating |
-| 💯 [1050+](https://leetcode.com/u/AalokDivineChildSingh/) | DSA problems solved across LeetCode & GeeksforGeeks |
+| 💯 [1350+](https://leetcode.com/u/AalokDivineChildSingh/) | DSA problems solved across LeetCode & GeeksforGeeks |
 
 ---
 
@@ -67,7 +67,7 @@ APIs         Google Calendar · WhatsApp · Cloudinary · JWT
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/AalokDivineChildSingh/">
-    <img src="https://img.shields.io/badge/LeetCode-1050%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-1350%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/alok123ib8k?tab=activity">
