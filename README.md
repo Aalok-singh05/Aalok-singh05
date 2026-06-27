@@ -86,13 +86,13 @@ APIs         Google Calendar · WhatsApp · Cloudinary · JWT
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aalok-singh05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Aalok-singh05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&v=2026-06-27" width="100%" />
     </td>
     <td align="center" width="33%">
-      <img src="https://streak-stats.demolab.com?user=Aalok-singh05&theme=tokyonight&hide_border=true" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=Aalok-singh05&theme=tokyonight&hide_border=true&v=2026-06-27" width="100%" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalok-singh05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aalok-singh05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=2026-06-27" width="100%" />
     </td>
   </tr>
 </table>
