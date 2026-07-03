@@ -97,6 +97,7 @@ APIs         Google Calendar · WhatsApp · Cloudinary · JWT
   </tr>
 </table>
 
+---
 
 <p align="center">
   ✉️ <a href="mailto:aalok.singh.official@gmail.com">aalok.singh.official@gmail.com</a>
