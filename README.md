@@ -5,7 +5,7 @@
 Building intelligent systems at the intersection of AI, backend engineering, and automation.
 Currently focused on multi-agent orchestration, scalable APIs, and real-world problem solving.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aalok--singh-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/aalok-singh-4399bb321) [![Email](https://img.shields.io/badge/Email-aalok.singh.official%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aalok.singh.official@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-2050%2B_Rating-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/alok_secondary/) [![GitHub](https://img.shields.io/badge/GitHub-Aalok--singh05-181717?logo=github&logoColor=white)](https://github.com/Aalok-singh05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aalok--singh-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/aalok-singh-4399bb321) [![Email](https://img.shields.io/badge/Email-aalok.singh.official%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aalok.singh.official@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-2100%2B_Rating-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/alok_secondary/) [![GitHub](https://img.shields.io/badge/GitHub-Aalok--singh05-181717?logo=github&logoColor=white)](https://github.com/Aalok-singh05)
 
 ---
 
@@ -63,7 +63,7 @@ APIs         Google Calendar · WhatsApp · Cloudinary · JWT
 
 <p align="center">
   <a href="https://leetcode.com/u/alok_secondary/">
-    <img src="https://img.shields.io/badge/LeetCode-2050%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-2100%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/AalokDivineChildSingh/">
