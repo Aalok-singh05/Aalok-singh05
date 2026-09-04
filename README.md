@@ -63,7 +63,7 @@ APIs         Google Calendar · WhatsApp · Cloudinary · JWT
 
 <p align="center">
   <a href="https://leetcode.com/u/alok_secondary/">
-    <img src="https://img.shields.io/badge/LeetCode-2100%2B%20Rating_(top_1.24%25)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-2146%20Rating_(top_1.24%25)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/AalokDivineChildSingh/">
