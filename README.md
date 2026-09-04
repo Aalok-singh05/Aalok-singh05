@@ -75,7 +75,7 @@ APIs         Google Calendar · WhatsApp · Cloudinary · JWT
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/alok2005">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-1372-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
