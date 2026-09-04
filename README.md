@@ -5,7 +5,7 @@
 Building intelligent systems at the intersection of AI, backend engineering, and automation.
 Currently focused on multi-agent orchestration, scalable APIs, and real-world problem solving.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aalok--singh-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/aalok-singh-4399bb321) [![Email](https://img.shields.io/badge/Email-aalok.singh.official%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aalok.singh.official@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-2146_Rating-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/alok_secondary/) [![GitHub](https://img.shields.io/badge/GitHub-Aalok--singh05-181717?logo=github&logoColor=white)](https://github.com/Aalok-singh05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aalok--singh-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/aalok-singh-4399bb321) [![Email](https://img.shields.io/badge/Email-aalok.singh.official%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aalok.singh.official@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-2146_Rating(top 1.24%)-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/alok_secondary/) [![GitHub](https://img.shields.io/badge/GitHub-Aalok--singh05-181717?logo=github&logoColor=white)](https://github.com/Aalok-singh05)
 
 ---
 
